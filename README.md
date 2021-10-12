@@ -1,2 +1,3 @@
 # portfolio
-Select projects
+Select projects will be featured on the deployed Github page
+
