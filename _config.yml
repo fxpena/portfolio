@@ -1,0 +1,11 @@
+title: Portfolio
+author: Francisco Pena
+email: f.pena@columbia.edu
+description: > # this means to ignore newlines until "baseurl:"
+  A place to showcase my data science skills.
+theme: minima
+# social links
+github_username:  fxpena # DO NOT include the @ character, or else the build will fail!
+linkedin_username: franciscoxpena
+
+show_excerpts: true # set to false to remove excerpts on the homepage
