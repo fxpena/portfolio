@@ -7,4 +7,8 @@ Many people tend to build wealth by investing in the stock market or investing i
 - How does this result vary across states and cities throughout the US? 
 - How can *you* make an informed decision for your own geography and financial goals?
 
+Look at my notebook [here](https://github.com/fxpena/portfolio/blob/main/RE_v_stocks.ipynb) to find out which states would've been the best places to purchase a home 30 years ago.
+#### Eventually, I may turn the analysis in the notebook into an app where a user could browse scenarios based the year, state, or city of their choosing.
+Additional analysis still needs to be done to fairly compare the two investment strategies: real estate vs a stock market index fund. Stay tuned for the next commit to the notebook.
+
 *Disclaimer*: Past performance is not a good indicator of future performance.
