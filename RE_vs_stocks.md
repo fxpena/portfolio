@@ -7,6 +7,6 @@ Many people tend to build wealth by investing in the stock market or investing i
 - How can *you* make an informed decision for your own geography and financial goals?
 
 ### Look at my analysis [here](https://github.com/fxpena/RE_v_stocks/blob/main/RE_v_stocks.ipynb) to see how often an equities index outperforms home prices.
-![Investment comparison chart](../images/relative_value.png)
+![Investment comparison chart](/images/relative_value.png)
 
 *Disclaimer*: Past performance does not guarantee future returns.
